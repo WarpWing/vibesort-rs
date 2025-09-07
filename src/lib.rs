@@ -63,8 +63,8 @@ where
     let payload = json!({
         "model": "llama-4-maverick-17b-128e-instruct",
         "stream": false,
-        "max_tokens": 128,
-        "temperature": 0.1,
+        "max_tokens": 8192,
+        "temperature": 1,
         "messages": [
             {
                 "role": "system",
