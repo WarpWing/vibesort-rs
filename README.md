@@ -1,6 +1,12 @@
 # vibesort-rs
 Blazingly fast vibesort implementation in Rust using Llama 4 Maverick on Cerebras Cloud. 
-
+<div align="center">
+  <img src="https://img.shields.io/badge/Language-Rust-orange?style=for-the-badge&logo=rust" />
+  <img src="https://img.shields.io/crates/v/vibesort?style=for-the-badge&logo=rust" />
+  <img src="https://img.shields.io/badge/AI%20POWERED-🤖-ff6b6b?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/ASYNC-POWERED-purple?style=for-the-badge" />
+</div>
+<p></p>
 <img width="925" height="517" alt="image" src="https://github.com/user-attachments/assets/40fec91e-868e-469a-b271-d9764dda750e" />
 
 ## Installation
