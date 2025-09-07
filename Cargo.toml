@@ -1,0 +1,16 @@
+[package]
+name = "vibesort"
+version = "0.1.0"
+edition = "2021"
+authors = ["Ty Chermsirivatana <chermsit@dickinson.edu>"]
+readme = "README.md"
+description = "An improved vibesort implemented in Rust using Llama 4 Maverick for faster inference."
+repository = "https://github.com/WarpWing/vibesort-rs"
+license = "MIT"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+serde_json = "1.0"
+reqwest = { version = "0.12", features = ["json"] }
+tokio = { version = "1.0", features = ["full"] }
+thiserror = "1.0"
