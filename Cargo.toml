@@ -4,7 +4,7 @@ version = "0.2.0"
 edition = "2021"
 authors = ["Ty Chermsirivatana <chermsit@dickinson.edu>"]
 readme = "README.md"
-description = "An improved vibesort implemented in Rust using Llama 4 Maverick for faster inference."
+description = "Blazingly fast vibesort implementation in Rust using Llama 4 Maverick on Cerebras Cloud."
 repository = "https://github.com/WarpWing/vibesort-rs"
 license = "MIT"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
