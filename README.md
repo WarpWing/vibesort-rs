@@ -11,7 +11,7 @@ cargo install vibesort
 
 ## Setup
 
-Export your Cerebras API key:
+Export your [Cerebras](https://cloud.cerebras.ai/) API key:
 
 ```bash
 export CEREBRAS_API_KEY=your_api_key_here
