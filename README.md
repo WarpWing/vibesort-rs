@@ -46,3 +46,6 @@ async fn main() {
     }
 }
 ```
+
+<img width="477" height="509" alt="image" src="https://github.com/user-attachments/assets/b7da3789-8a69-46c3-a12f-9a88c016ea48" />
+
