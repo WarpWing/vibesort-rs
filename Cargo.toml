@@ -1,8 +1,8 @@
 [package]
 name = "vibesort"
-version = "0.2.0"
+version = "0.3.0"
 edition = "2021"
-authors = ["Ty Chermsirivatana <chermsit@dickinson.edu>"]
+authors = ["WarpWing", "not-a-cowfr"]
 readme = "README.md"
 description = "Blazingly fast vibesort implementation in Rust using Llama 4 Maverick on Cerebras Cloud."
 repository = "https://github.com/WarpWing/vibesort-rs"
