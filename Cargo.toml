@@ -1,6 +1,6 @@
 [package]
 name = "vibesort"
-version = "0.1.0"
+version = "0.2.0"
 edition = "2021"
 authors = ["Ty Chermsirivatana <chermsit@dickinson.edu>"]
 readme = "README.md"
