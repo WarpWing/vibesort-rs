@@ -1,5 +1,5 @@
 # vibesort-rs
-An improved vibesort implemented in Rust using Llama 4 Maverick on Cerebras Cloud.
+Blazingly fast vibesort implementation in Rust using Llama 4 Maverick on Cerebras Cloud. 
 
 <img width="925" height="517" alt="image" src="https://github.com/user-attachments/assets/40fec91e-868e-469a-b271-d9764dda750e" />
 
