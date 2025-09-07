@@ -8,7 +8,8 @@ Blazingly fast vibesort implementation in Rust using Llama 4 Maverick on Cerebra
   <img src="https://img.shields.io/badge/10x-VIBECODER-brown?style=for-the-badge" />
 </div>
 <p></p>
-<img width="925" height="517" alt="image" src="https://github.com/user-attachments/assets/7bf8bb5f-f04f-4753-acde-c81e05164f1d" />
+
+<img width="477" height="509" alt="image" src="https://github.com/user-attachments/assets/b7da3789-8a69-46c3-a12f-9a88c016ea48" />
 
 [![asciicast](https://asciinema.org/a/wv1Byg5J8AcSKLR1KUyjeOfaG.svg)](https://asciinema.org/a/wv1Byg5J8AcSKLR1KUyjeOfaG) 
 
@@ -47,5 +48,4 @@ async fn main() {
 }
 ```
 
-<img width="477" height="509" alt="image" src="https://github.com/user-attachments/assets/b7da3789-8a69-46c3-a12f-9a88c016ea48" />
 
