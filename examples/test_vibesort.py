@@ -2,7 +2,7 @@
 import time
 from vibesort import vibesort
 
-def test_vibesort_with_timing():
+def test_vibesort():
     # Test with numbers
     numbers = [42, 7, 13, 99, 1, 56]
     print(f"Original numbers: {numbers}")
@@ -39,4 +39,4 @@ def test_vibesort_with_timing():
     print(f"Time taken: {(end_time - start_time) * 1000:.2f}ms")
 
 if __name__ == "__main__":
-    test_vibesort_with_timing()
+    test_vibesort()
