@@ -11,7 +11,7 @@ Blazingly fast vibesort implementation in Rust using Llama 4 Maverick on Cerebra
 
 <img width="477" height="509" alt="image" src="https://github.com/user-attachments/assets/b7da3789-8a69-46c3-a12f-9a88c016ea48" />
 
-[![asciicast](https://asciinema.org/a/wv1Byg5J8AcSKLR1KUyjeOfaG.svg)](https://asciinema.org/a/wv1Byg5J8AcSKLR1KUyjeOfaG) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FWarpWing%2Fvibesort-rs.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FWarpWing%2Fvibesort-rs?ref=badge_shield)
+[![asciicast](https://asciinema.org/a/wv1Byg5J8AcSKLR1KUyjeOfaG.svg)](https://asciinema.org/a/wv1Byg5J8AcSKLR1KUyjeOfaG)
 
 
 
